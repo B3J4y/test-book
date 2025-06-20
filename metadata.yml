@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=quadriga-schema.json
 schema-version: 1.1-beta2
 book-version: 0.51.0
-title: 'QUADRIGA OERs: erstellen und gestalten mit Jupyter Book.
+title: 'This is a test title. QUADRIGA OERs: erstellen und gestalten mit Jupyter Book.
   QUADRIGA Open Educational Resources: Template'
 description:
   introduction: Diese OER führt in die Erstellung von QUADRIGA-OERs ein, bietet Inhalte
