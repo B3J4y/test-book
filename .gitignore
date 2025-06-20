@@ -1,5 +1,7 @@
 conda
 .venv
+.venv1
+.idea
 _build
 __pycache__
 quadriga1/
